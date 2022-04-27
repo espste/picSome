@@ -1,3 +1,4 @@
 # picSome
-# Created with React
+
+Pick and favorite pictures, created with React.
  
